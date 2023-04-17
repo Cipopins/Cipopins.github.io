@@ -20,13 +20,13 @@
       
         
         
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hello World!!!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hello World!!!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</description>
         
       
       
       
-      <content:encoded><![CDATA[<p><em><strong>Hello World!!!</strong></em></p>]]></content:encoded>
+      <content:encoded><![CDATA[<html><head></head><body><p><em><strong>Hello World!!!</strong></em></p></body></html>]]></content:encoded>
       
       
       
