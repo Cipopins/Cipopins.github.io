@@ -9,8 +9,33 @@
     <atom:link href="http://cipopins.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>努力学习JAVA中</description>
-    <pubDate>Mon, 17 Apr 2023 11:50:11 GMT</pubDate>
+    <pubDate>Tue, 18 Apr 2023 12:40:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>关于Coding腾讯云部署</title>
+      <link>http://cipopins.top/2023/04/18/%E5%85%B3%E4%BA%8ECoding%E8%85%BE%E8%AE%AF%E4%BA%91%E9%83%A8%E7%BD%B2/</link>
+      <guid>http://cipopins.top/2023/04/18/%E5%85%B3%E4%BA%8ECoding%E8%85%BE%E8%AE%AF%E4%BA%91%E9%83%A8%E7%BD%B2/</guid>
+      <pubDate>Tue, 18 Apr 2023 12:37:53 GMT</pubDate>
+      
+        
+        
+      <description>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;千万不要再往Coding上部署,已经不再支持静态网页部署,当然想要也是可以有,那就是&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;ta</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<html><head></head><body><p><em><strong>千万不要再往Coding上部署,已经不再支持静态网页部署,当然想要也是可以有,那就是</strong></em></p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">MONEY</span><br></pre></td></tr></tbody></table></figure></body></html>]]></content:encoded>
+      
+      
+      
+      <category domain="http://cipopins.top/tags/%E5%A4%A7%E5%9D%91/">大坑</category>
+      
+      
+      <comments>http://cipopins.top/2023/04/18/%E5%85%B3%E4%BA%8ECoding%E8%85%BE%E8%AE%AF%E4%BA%91%E9%83%A8%E7%BD%B2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World!</title>
