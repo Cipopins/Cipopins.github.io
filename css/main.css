@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #140014;
+  background: #547f42;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2732,7 +2732,7 @@ mjx-container + br {
   }
 }
 body {
-  background: url("https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/352168275dcce6df.jpg");
+  background: url("https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/illust_106812491_20230410_225806.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
