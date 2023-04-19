@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Hexo配置站长地图</title>
+      <link href="/2023/04/19/Hexo%E9%85%8D%E7%BD%AE%E7%AB%99%E9%95%BF%E5%9C%B0%E5%9B%BE/"/>
+      <url>/2023/04/19/Hexo%E9%85%8D%E7%BD%AE%E7%AB%99%E9%95%BF%E5%9C%B0%E5%9B%BE/</url>
+      
+        <content type="html"><![CDATA[<html><head></head><body><p><code>百度</code>站长地图文件验证一直失败,又不支持CNAME验证<br><code>Bing</code>和<code>GooGle</code>的站长地图配置就很好弄<br><code>阿里云</code>的OOS和CDN配置都要备案,OOS只能作为国内图床了<br>对<code>busuanzi-counter.swig</code>进行修改,现在不会有warning了  </p><pre><code>&lt;script{{ pjax }} async type="application/json" src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"&gt;&lt;/script&gt;  &lt;meta name="referrer" content="no-referrer-when-downgrade"&gt;</code></pre><p>没有警告,成就感油然而生<br><img src="https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/202304191641093.png" alt="No Warning"></p></body></html>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 大坑 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于Coding腾讯云部署</title>
       <link href="/2023/04/18/%E5%85%B3%E4%BA%8ECoding%E8%85%BE%E8%AE%AF%E4%BA%91%E9%83%A8%E7%BD%B2/"/>
       <url>/2023/04/18/%E5%85%B3%E4%BA%8ECoding%E8%85%BE%E8%AE%AF%E4%BA%91%E9%83%A8%E7%BD%B2/</url>
