@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cipopins.top/2023/04/20/AliyunCDN/</loc>
+    
+    <lastmod>2023-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://cipopins.top/2023/04/19/Hexo%E9%85%8D%E7%BD%AE%E7%AB%99%E9%95%BF%E5%9C%B0%E5%9B%BE/</loc>
     
     <lastmod>2023-04-19</lastmod>
@@ -67,7 +76,7 @@
 
   <url>
     <loc>http://cipopins.top/</loc>
-    <lastmod>2023-04-19</lastmod>
+    <lastmod>2023-04-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,7 +84,14 @@
   
   <url>
     <loc>http://cipopins.top/tags/%E5%A4%A7%E5%9D%91/</loc>
-    <lastmod>2023-04-19</lastmod>
+    <lastmod>2023-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://cipopins.top/tags/%E7%BD%91%E7%AB%99%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2023-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

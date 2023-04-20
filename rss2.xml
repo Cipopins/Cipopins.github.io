@@ -9,8 +9,32 @@
     <atom:link href="http://cipopins.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>努力学习JAVA中</description>
-    <pubDate>Wed, 19 Apr 2023 08:49:35 GMT</pubDate>
+    <pubDate>Thu, 20 Apr 2023 12:53:13 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>AliyunCDN</title>
+      <link>http://cipopins.top/2023/04/20/AliyunCDN/</link>
+      <guid>http://cipopins.top/2023/04/20/AliyunCDN/</guid>
+      <pubDate>Thu, 20 Apr 2023 12:15:08 GMT</pubDate>
+      
+        
+        
+      <description>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h1 id=&quot;阿里云CDN转发部署在Github上的Hexo博客&quot;&gt;&lt;a href=&quot;#阿里云CDN转发部署在Github上的Hexo博客&quot; class=&quot;headerlink&quot; title=&quot;阿里云CDN转发部署在Github</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<html><head></head><body><h1 id="阿里云CDN转发部署在Github上的Hexo博客"><a href="#阿里云CDN转发部署在Github上的Hexo博客" class="headerlink" title="阿里云CDN转发部署在Github上的Hexo博客"></a>阿里云CDN转发部署在Github上的Hexo博客</h1><hr><p>在CDN上设置<code>缓存</code>和<code>性能优化</code>能节省带宽的同时加速网站的访问<br><img src="https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/202304202039118.png" alt="cache"><br>Html设置不缓存,其他的全部缓存,反正写博客不会经常更新特性</p><hr><p>CDN上设置大陆要备案,所以直接设置全球不包括大陆,这样设置大陆也能正常访问而且不需要备案<br><img src="https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/202304202036018.png" alt="ping">  </p><blockquote><p>虽然Ping值高,但是在不同的网络能够正常访问了,相对于直接访问Github源站的情况要好很多  </p></blockquote><p><img src="https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/202304202047422.png" alt="域名"><br>CDN加速对于源域名和子域名都要进行配置  </p><hr><p>但是对于CDN的Referer防盗链目前不知道该如何配置,直接配置会导致403forbidden<br><img src="https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/202304202050952.png" alt="referer"><br>OOS的Referer防盗链却是可以正常进行</p></body></html>]]></content:encoded>
+      
+      
+      
+      <category domain="http://cipopins.top/tags/%E7%BD%91%E7%AB%99%E9%85%8D%E7%BD%AE/">网站配置</category>
+      
+      
+      <comments>http://cipopins.top/2023/04/20/AliyunCDN/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hexo配置站长地图</title>
