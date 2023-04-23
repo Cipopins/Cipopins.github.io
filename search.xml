@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>ServletFileUpload报错解决</title>
+      <link href="/2023/04/21/ServletFileUpload%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/"/>
+      <url>/2023/04/21/ServletFileUpload%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/</url>
+      
+        <content type="html"><![CDATA[<html><head></head><body><p>将<code>ServletFileUpload.isMultipartContent(req)</code><br>改成<code>ServletFileUpload.isMultipartContent((RequestContext) req)</code>即可<br><img src="https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/202304211841858.png">  </p></body></html>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Java学习笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>AliyunCDN</title>
       <link href="/2023/04/20/AliyunCDN/"/>
       <url>/2023/04/20/AliyunCDN/</url>

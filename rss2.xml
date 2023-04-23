@@ -9,8 +9,32 @@
     <atom:link href="http://cipopins.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>努力学习JAVA中</description>
-    <pubDate>Thu, 20 Apr 2023 12:53:13 GMT</pubDate>
+    <pubDate>Fri, 21 Apr 2023 10:41:23 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>ServletFileUpload报错解决</title>
+      <link>http://cipopins.top/2023/04/21/ServletFileUpload%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/</link>
+      <guid>http://cipopins.top/2023/04/21/ServletFileUpload%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/</guid>
+      <pubDate>Fri, 21 Apr 2023 10:39:25 GMT</pubDate>
+      
+        
+        
+      <description>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;将&lt;code&gt;ServletFileUpload.isMultipartContent(req)&lt;/code&gt;&lt;br&gt;改成&lt;code&gt;ServletFileUpload.isMultipartContent((Request</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<html><head></head><body><p>将<code>ServletFileUpload.isMultipartContent(req)</code><br>改成<code>ServletFileUpload.isMultipartContent((RequestContext) req)</code>即可<br><img src="https://cipopinsimages.oss-cn-shanghai.aliyuncs.com/img/202304211841858.png">  </p></body></html>]]></content:encoded>
+      
+      
+      
+      <category domain="http://cipopins.top/tags/Java%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">Java学习笔记</category>
+      
+      
+      <comments>http://cipopins.top/2023/04/21/ServletFileUpload%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>AliyunCDN</title>
